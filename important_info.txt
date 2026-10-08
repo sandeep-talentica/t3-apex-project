@@ -1,4 +1,6 @@
-11bCDHfXsyIJapAnfooEQ8KR2U8_E42YW
 
 
-URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)>
+https://drive.google.com/uc?export=download&id=11bCDHfXsyIJapAnfooEQ8KR2U8_E42YW
+
+
+Please find attached my Week-2 submission for P1 – Credit Risk & Loan Default Prediction (Give Me Some Credit dataset): the executed notebook, project outline, and data dictionary. All cells run cleanly end-to-end.
